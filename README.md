@@ -1,0 +1,2 @@
+# SLauncher
+Minecraft launcher data.
